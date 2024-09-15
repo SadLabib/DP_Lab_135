@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|e:\\study materials\\academics\\fifth semester\\design pattern\\labtask1\\labtask1\\rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\labtask1\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\labtask1\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\labtask1\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\labtask1\\ridetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\ridetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\labtask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\labtask1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\labtask1\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DF5E2E-7652-4B23-B6F9-311DA83E91F5}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\Admin.cs",
+              "RelativeDocumentMoniker": "LabTask1\\Admin.cs",
+              "ToolTip": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\Admin.cs",
+              "RelativeToolTip": "LabTask1\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:38:22.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RideType.cs",
+              "DocumentMoniker": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\RideType.cs",
+              "RelativeDocumentMoniker": "LabTask1\\RideType.cs",
+              "ToolTip": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\RideType.cs",
+              "RelativeToolTip": "LabTask1\\RideType.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:36:54.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\NotificationService.cs",
+              "RelativeDocumentMoniker": "LabTask1\\NotificationService.cs",
+              "ToolTip": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\NotificationService.cs",
+              "RelativeToolTip": "LabTask1\\NotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:38:06.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "LabTask1\\PaymentMethod.cs",
+              "ToolTip": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\PaymentMethod.cs",
+              "RelativeToolTip": "LabTask1\\PaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:37:45.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\Trip.cs",
+              "RelativeDocumentMoniker": "LabTask1\\Trip.cs",
+              "ToolTip": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\Trip.cs",
+              "RelativeToolTip": "LabTask1\\Trip.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA5wAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:36:29.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\Driver.cs",
+              "RelativeDocumentMoniker": "LabTask1\\Driver.cs",
+              "ToolTip": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\Driver.cs",
+              "RelativeToolTip": "LabTask1\\Driver.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA5wAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:36:15.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rider.cs",
+              "DocumentMoniker": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\Rider.cs",
+              "RelativeDocumentMoniker": "LabTask1\\Rider.cs",
+              "ToolTip": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\Rider.cs",
+              "RelativeToolTip": "LabTask1\\Rider.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:36:02.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\Program.cs",
+              "RelativeDocumentMoniker": "LabTask1\\Program.cs",
+              "ToolTip": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\LabTask1\\LabTask1\\Program.cs",
+              "RelativeToolTip": "LabTask1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:34:19.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
