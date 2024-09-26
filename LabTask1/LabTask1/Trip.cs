@@ -11,7 +11,7 @@ namespace LabTask1
         public int Id { get; set; }
         public string PickupLocation { get; set; }
         public string DropOffLocation { get; set; }
-        public RideType RideType { get; set; }
+        public IRideType RideType { get; set; }
         public string Status { get; set; }
         public double Fare { get; set; }
         public double Distance { get; set; }

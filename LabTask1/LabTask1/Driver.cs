@@ -6,13 +6,10 @@ using System.Threading.Tasks;
 
 namespace LabTask1
 {
-    public class Driver
+    public class Driver : User
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
         public string VehicleType { get; set; }
         public string Location { get; set; }
-        public double Rating { get; set; }
         public bool Availability { get; set; }
 
         public void AcceptRide(Trip trip) { }
