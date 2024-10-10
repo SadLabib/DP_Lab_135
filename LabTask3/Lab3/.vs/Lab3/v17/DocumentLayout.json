@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\DP_Lab_135\\LabTask3\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9A2474-F48A-4BA2-A33E-AC4C97155DAC}|Lab3\\Lab3.csproj|e:\\study materials\\academics\\fifth semester\\design pattern\\dp_lab_135\\labtask3\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9A2474-F48A-4BA2-A33E-AC4C97155DAC}|Lab3\\Lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9A2474-F48A-4BA2-A33E-AC4C97155DAC}|Lab3\\Lab3.csproj|e:\\study materials\\academics\\fifth semester\\design pattern\\dp_lab_135\\labtask3\\lab3\\lab3\\caesercyphermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9A2474-F48A-4BA2-A33E-AC4C97155DAC}|Lab3\\Lab3.csproj|solutionrelative:lab3\\caesercyphermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9A2474-F48A-4BA2-A33E-AC4C97155DAC}|Lab3\\Lab3.csproj|e:\\study materials\\academics\\fifth semester\\design pattern\\dp_lab_135\\labtask3\\lab3\\lab3\\desencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9A2474-F48A-4BA2-A33E-AC4C97155DAC}|Lab3\\Lab3.csproj|solutionrelative:lab3\\desencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9A2474-F48A-4BA2-A33E-AC4C97155DAC}|Lab3\\Lab3.csproj|e:\\study materials\\academics\\fifth semester\\design pattern\\dp_lab_135\\labtask3\\lab3\\lab3\\aesencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9A2474-F48A-4BA2-A33E-AC4C97155DAC}|Lab3\\Lab3.csproj|solutionrelative:lab3\\aesencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9A2474-F48A-4BA2-A33E-AC4C97155DAC}|Lab3\\Lab3.csproj|e:\\study materials\\academics\\fifth semester\\design pattern\\dp_lab_135\\labtask3\\lab3\\lab3\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9A2474-F48A-4BA2-A33E-AC4C97155DAC}|Lab3\\Lab3.csproj|solutionrelative:lab3\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9A2474-F48A-4BA2-A33E-AC4C97155DAC}|Lab3\\Lab3.csproj|e:\\study materials\\academics\\fifth semester\\design pattern\\dp_lab_135\\labtask3\\lab3\\lab3\\iencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9A2474-F48A-4BA2-A33E-AC4C97155DAC}|Lab3\\Lab3.csproj|solutionrelative:lab3\\iencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaeserCypherMethod.cs",
+              "DocumentMoniker": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\DP_Lab_135\\LabTask3\\Lab3\\Lab3\\CaeserCypherMethod.cs",
+              "RelativeDocumentMoniker": "Lab3\\CaeserCypherMethod.cs",
+              "ToolTip": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\DP_Lab_135\\LabTask3\\Lab3\\Lab3\\CaeserCypherMethod.cs",
+              "RelativeToolTip": "Lab3\\CaeserCypherMethod.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:51:45.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DesEncryptionMethod.cs",
+              "DocumentMoniker": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\DP_Lab_135\\LabTask3\\Lab3\\Lab3\\DesEncryptionMethod.cs",
+              "RelativeDocumentMoniker": "Lab3\\DesEncryptionMethod.cs",
+              "ToolTip": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\DP_Lab_135\\LabTask3\\Lab3\\Lab3\\DesEncryptionMethod.cs",
+              "RelativeToolTip": "Lab3\\DesEncryptionMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:49:07.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AesEncryptionMethod.cs",
+              "DocumentMoniker": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\DP_Lab_135\\LabTask3\\Lab3\\Lab3\\AesEncryptionMethod.cs",
+              "RelativeDocumentMoniker": "Lab3\\AesEncryptionMethod.cs",
+              "ToolTip": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\DP_Lab_135\\LabTask3\\Lab3\\Lab3\\AesEncryptionMethod.cs",
+              "RelativeToolTip": "Lab3\\AesEncryptionMethod.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvyIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:26:38.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Encryption.cs",
+              "DocumentMoniker": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\DP_Lab_135\\LabTask3\\Lab3\\Lab3\\Encryption.cs",
+              "RelativeDocumentMoniker": "Lab3\\Encryption.cs",
+              "ToolTip": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\DP_Lab_135\\LabTask3\\Lab3\\Lab3\\Encryption.cs",
+              "RelativeToolTip": "Lab3\\Encryption.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:01:21.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEncryptionMethod.cs",
+              "DocumentMoniker": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\DP_Lab_135\\LabTask3\\Lab3\\Lab3\\IEncryptionMethod.cs",
+              "RelativeDocumentMoniker": "Lab3\\IEncryptionMethod.cs",
+              "ToolTip": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\DP_Lab_135\\LabTask3\\Lab3\\Lab3\\IEncryptionMethod.cs",
+              "RelativeToolTip": "Lab3\\IEncryptionMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:58:43.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\DP_Lab_135\\LabTask3\\Lab3\\Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3\\Program.cs",
+              "ToolTip": "E:\\Study Materials\\Academics\\Fifth Semester\\Design Pattern\\DP_Lab_135\\LabTask3\\Lab3\\Lab3\\Program.cs",
+              "RelativeToolTip": "Lab3\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:57:00.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
